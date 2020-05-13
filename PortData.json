@@ -1,0 +1,13 @@
+[
+    {
+        "name": "disCord.exe",
+        "port" : "25156",
+        "type" : "ALL"
+    },
+
+    {
+        "name": "xyz.exe",
+        "port" : "15123",
+        "type" : "TCP"
+    }
+]
